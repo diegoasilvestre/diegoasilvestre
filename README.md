@@ -1,13 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Diego+Silvestre!;Estudante+%26+Dev+de+Sistemas;Cloud+%7C+IA+%7C+Full+Stack" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diegoasilvestre&label=Visualizações+do+perfil&color=58A6FF&style=flat" alt="diegoasilvestre" />
-</p>
-
----
-
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante e desenvolvedor de sistemas
