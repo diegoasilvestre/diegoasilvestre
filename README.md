@@ -1,8 +1,9 @@
 ### 👨‍💻 Sobre mim
 
+Atualmente atuo como Analista de Suporte Técnico Jr, onde desenvolvo diariamente habilidades de resolução de problemas, atendimento ao usuário e visão crítica sobre o funcionamento de sistemas em produção.
+Estou no 3° semestre de Análise e Desenvolvimento de Sistemas e dedico meu tempo extra ao desenvolvimento de projetos de alta complexidade, com o objetivo claro de me tornar um Desenvolvedor Full-Stack. Minha experiência no suporte me dá uma vantagem única: eu entendo a dor do usuário final e projeto soluções que priorizam a estabilidade e a facilidade de uso.
+
 - 🎓 Estudante e desenvolvedor de sistemas
-- ☁️ Focado em **Cloud**, **IA** e **automação de processos**
-- 🤖 Explorando integrações com **n8n**, **Claude AI** e **Flowise**
 - 🚀 Sempre aprendendo novas tecnologias
 - 📫 Contato: **diegoasilvestre@live.com**
 
@@ -29,6 +30,17 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+
+---
+
+#### 📈 Trajetória & Projetos (Em Evolução)
+Apesar de estar no início da jornada como desenvolvedor, meus projetos pessoais e acadêmicos seguem padrões de nível sênior, focando em:
+
+E-commerce & Segurança: Refatoração completa de sistemas de vendas, aplicando auditorias de segurança, conformidade com a LGPD e proteção de dados via Row Level Security (RLS).
+SaaS & Automação: Exploração de arquiteturas multi-tenant e integração de automação de mensagens (WhatsApp), unindo suporte técnico e desenvolvimento.
+Infraestrutura de IA: Criação de pipelines RAG para alimentar chatbots inteligentes, demonstrando interesse nas tecnologias que moldarão o futuro do suporte e desenvolvimento.
+---
 
 #### 🤖 IA & Automação
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
